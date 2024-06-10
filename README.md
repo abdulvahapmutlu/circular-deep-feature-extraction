@@ -1,6 +1,6 @@
 # Circular Deep Feature Extraction with Pretrained VGG16 and Circular DenseNet201 Alternative for AlexNet and DarkNet53
 
-This repository contains code for extracting circular deep features from images using a combination of pretrained AlexNet and Circular DarkNet53 models. The extracted features are processed and selected using advanced statistical methods for subsequent classification tasks.
+This repository contains code for extracting circular deep features from images using a combination of pretrained VGG16 and Circular DenseNet201 models. The extracted features are processed and selected using advanced statistical methods for subsequent classification tasks.
 
 ## Features
 
